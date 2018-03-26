@@ -12,35 +12,35 @@ namespace codeChallenge2
         {
             string _word = "dog";
 
-            Console.WriteLine(_word + ": " + middleLetter(_word));
+            Console.WriteLine(_word + ": " + MiddleLetter(_word));
 
             _word = "Fishing";
 
-            Console.WriteLine(_word + ": " + middleLetter(_word));
+            Console.WriteLine(_word + ": " + MiddleLetter(_word));
 
             _word = "have";
 
-            Console.WriteLine(_word + ": " + middleLetter(_word));
+            Console.WriteLine(_word + ": " + MiddleLetter(_word));
 
             _word = "Middle";
 
-            Console.WriteLine(_word + ": " + middleLetter(_word));
+            Console.WriteLine(_word + ": " + MiddleLetter(_word));
 
             _word = "C";
 
-            Console.WriteLine(_word + ": " + middleLetter(_word));
+            Console.WriteLine(_word + ": " + MiddleLetter(_word));
 
             _word = "Cd";
 
-            Console.WriteLine(_word + ": " + middleLetter(_word));
+            Console.WriteLine(_word + ": " + MiddleLetter(_word));
 
             _word = "";
 
-            Console.WriteLine(_word + ": " + middleLetter(_word));
+            Console.WriteLine(_word + ": " + MiddleLetter(_word));
 
         }
 
-        public static string middleLetter(string _word)
+        public static string MiddleLetter(string _word)
         {
             if (_word == "")
                 return _word;
