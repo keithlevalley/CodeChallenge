@@ -62,7 +62,7 @@ namespace CodeChallenge1
 
             for (int i = 0; i < _list.Length; i++)
             {
-                if (!(_list[i] % 2 == 0))
+                if (_list[i] % 2 != 0)
                 {
                     _tempList.Add(_list[i]);
                     _tempIndex.Add(i);

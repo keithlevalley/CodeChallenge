@@ -4,3 +4,9 @@ C:\Users\klevalley2\Source\Repos\Tech 497 Streaming Service\CodeChallenge1\CodeC
 C:\Users\klevalley2\Source\Repos\Tech 497 Streaming Service\CodeChallenge1\CodeChallenge1\obj\Release\CodeChallenge1.csproj.CoreCompileInputs.cache
 C:\Users\klevalley2\Source\Repos\Tech 497 Streaming Service\CodeChallenge1\CodeChallenge1\obj\Release\CodeChallenge1.exe
 C:\Users\klevalley2\Source\Repos\Tech 497 Streaming Service\CodeChallenge1\CodeChallenge1\obj\Release\CodeChallenge1.pdb
+C:\Users\klevalley2\Source\Repos\CodeChallenge\CodeChallenge1\CodeChallenge1\bin\Release\CodeChallenge1.exe.config
+C:\Users\klevalley2\Source\Repos\CodeChallenge\CodeChallenge1\CodeChallenge1\bin\Release\CodeChallenge1.exe
+C:\Users\klevalley2\Source\Repos\CodeChallenge\CodeChallenge1\CodeChallenge1\bin\Release\CodeChallenge1.pdb
+C:\Users\klevalley2\Source\Repos\CodeChallenge\CodeChallenge1\CodeChallenge1\obj\Release\CodeChallenge1.csproj.CoreCompileInputs.cache
+C:\Users\klevalley2\Source\Repos\CodeChallenge\CodeChallenge1\CodeChallenge1\obj\Release\CodeChallenge1.exe
+C:\Users\klevalley2\Source\Repos\CodeChallenge\CodeChallenge1\CodeChallenge1\obj\Release\CodeChallenge1.pdb
